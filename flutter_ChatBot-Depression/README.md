@@ -1,2 +1,2 @@
-# flutter_chatBot
-Chatbot to tell facts about Flutter.
+# Depression Chatbot Mobile App
+This is my Final Year Project which is called Depression Mobile App Chatbot. It uses flutter and dialogflow.
